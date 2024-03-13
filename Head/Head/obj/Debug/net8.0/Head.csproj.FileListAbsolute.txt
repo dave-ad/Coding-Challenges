@@ -1,0 +1,15 @@
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\bin\Debug\net8.0\Head.exe
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\bin\Debug\net8.0\Head.deps.json
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\bin\Debug\net8.0\Head.runtimeconfig.json
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\bin\Debug\net8.0\Head.dll
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\bin\Debug\net8.0\Head.pdb
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\Head.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\Head.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\Head.AssemblyInfo.cs
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\Head.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\Head.sourcelink.json
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\Head.dll
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\refint\Head.dll
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\Head.pdb
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\Head.genruntimeconfig.cache
+C:\Users\David\source\repos\Coding-Challenges\Head\Head\obj\Debug\net8.0\ref\Head.dll
